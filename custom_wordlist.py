@@ -3,7 +3,7 @@ import itertools
 from password_strength import password_check
 def wordlist_generator(name,dob,pet,extra=[]):
     words=[name.lower(),dob.lower(),pet.lower()]+ [word.lower() for word in extra]
-    leetspeak={'a':'@','s':'$'}
+    leetspeak={'a':'@','s':'$','g':'&'}
 #transforming the alphabets
     def leet_transform(word):
          return''.join([leetspeak.get(c,c) for c in word])
