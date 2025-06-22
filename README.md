@@ -32,8 +32,9 @@ A Python-based tool to analyze password strength and generate custom wordlists u
 ---
 
 ## 🖥️ Usage
- To analyze the strength of the password on a scale of 0-4
- 
+-- To analyze the strength of the password on a scale of 0-4
+-- To generate wordlist of various combinations using the input values(name,pet,dob,extra)
+-- To save the generated wordlist into a readable text file
 ### ▶️ GUI Mode
 ```bash
 python gui_pa.py
