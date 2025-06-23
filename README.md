@@ -29,6 +29,9 @@ A Python-based tool to analyze password strength and generate custom wordlists u
 | `save_file.py`        | Exports the generated wordlist to `.txt`      |
 | `README.md`           | Project documentation                         |
 
+Documentation of my project and its insights are provided in pdf format
+Check out for implementation !!
+
 ---
 
 ## 🖥️ Usage
