@@ -2,6 +2,7 @@
  🔐 Password Strength Analyzer & Custom Wordlist Generator
 
 A Python-based tool to analyze password strength and generate custom wordlists using user-defined inputs. Supports both **GUI (Tkinter)** and **CLI (argparse)** modes. Ideal for security testing, password audits, and ethical hacking practice.
+YOU CAN ALSO DOWNLOAD THE .EXE FILE TO SEE THE DEMO
 
 ---
 
